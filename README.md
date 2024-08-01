@@ -1,6 +1,5 @@
-# Hi, I'm Harshal Patil 👋
+# Hi, I'm @ihpatil 👋
 
-- 👋 Hi, I’m @ihpatil
 - 👀 I’m interested in web and app development, domain registration and management, web hosting, cloud computing, and ethical hacking.
 - 🌱 I’m currently learning more about backend development, JavaScript, and ethical hacking.
 - 💞️ I’m looking to collaborate on web and app development projects, as well as cloud computing solutions.
