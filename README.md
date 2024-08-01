@@ -28,12 +28,13 @@ I'm a passionate web and app developer with expertise in various domains. Here a
 
 - Certified in Static Website Development
 - Certified in Responsive Website Development
+- Certified in AWS
 - Experience connecting Shipping APIs (e.g., Shiprocket) to websites
 
 ## Get in Touch
 
 - **Email**: harshal@hpweb.org
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Website**: [Your Website](https://www.yourwebsite.com)
+- **LinkedIn**: [in/iampatil](https://www.linkedin.com/in/iampatil)
+- **Website**: [hpatil.in](https://hpatil.in)
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
