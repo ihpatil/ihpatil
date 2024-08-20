@@ -34,6 +34,6 @@ I'm a passionate web and app developer with expertise in various domains. Here a
 
 - **Email**: harshal@hpweb.org
 - **LinkedIn**: [in/iampatil](https://www.linkedin.com/in/iampatil)
-- **Website**: [hpatil.in](https://hpatil.in)
+- **Website**: [hpatil.in](https://hpatil.in) / [ihpatil.github.io](https://ihpatil.github.io)
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
